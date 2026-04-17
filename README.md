@@ -3,5 +3,5 @@ End-to-end SQL analysis of pizza restaurant sales. Features data normalization, 
 
 Project Overview
 
-
-This project performs a comprehensive analysis of a pizza store's sales data using SQL. The goal is to transform raw transactional data into actionable business intelligence by calculating key performance indicators (KPIs), identifying peak sales periods, and analyzing product performance across different categories and sizes.
+In the competitive food and beverage industry, data-driven decision-making is key to maintaining profitability and operational efficiency. This project transforms raw transactional records into structured business intelligence by performing a full SQL analysis on a year's worth of pizza sales data.
+The analysis identifies critical sales trends, customer behavior patterns, and product performance metrics to provide actionable recommendations for inventory optimization, marketing strategy refinement, and revenue maximization.
