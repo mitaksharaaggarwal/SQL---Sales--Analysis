@@ -33,7 +33,7 @@ The project uses a MySQL database named `pizzaclub` with the following tables:
 
 ---
 
-## 🔍 Key Analysis & SQL Queries
+## Key Analysis & SQL Queries
 
 ### Basic Level
 
@@ -64,7 +64,7 @@ The project uses a MySQL database named `pizzaclub` with the following tables:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - **Top Revenue Generator:** The Thai Chicken Pizza leads with over $43,400 in total revenue, despite not being the most ordered by volume.
 - **Most Popular by Volume:** The Classic Deluxe Pizza (2,453 units) and Barbecue Chicken Pizza (2,432 units) top the order count.
@@ -73,7 +73,7 @@ The project uses a MySQL database named `pizzaclub` with the following tables:
 - **Peak Hours:** Lunch rush peaks at **12:00–13:00** (2,520 / 2,455 orders) and dinner rush at **17:00–18:00** (2,336 / 2,399 orders).
 - **Revenue is well-distributed** across all four categories (Classic, Supreme, Chicken, Veggie), each contributing roughly 24–27%.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Staff Optimization:** Increase staff at peak hours (12 PM and 5 PM) to handle order volume efficiently and reduce wait times.
 2. **Marketing Focus:** Push targeted promotions for the **Thai Chicken Pizza** — it's the top revenue driver and has strong upsell potential.
@@ -82,7 +82,7 @@ The project uses a MySQL database named `pizzaclub` with the following tables:
 
 ---
 
-## ✨ Key Features of This Project
+## Key Features of This Project
 
 - **Comprehensive Data Cleaning** — Handled data type formatting (dates/times) and filtered records for accurate reporting.
 - **Top Performance Ranking** — Created dynamic rankings for top-selling pizzas by revenue and quantity per category.
@@ -91,14 +91,14 @@ The project uses a MySQL database named `pizzaclub` with the following tables:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Database:** MySQL (MySQL Workbench)
 - **Language:** SQL
 - **Techniques:** JOINs, GROUP BY, Subqueries, Window Functions (`RANK() OVER`), Aggregate Functions, Date/Time Functions
 
 ---
-## 📁 Project Structure
+## Project Structure
 
 pizza-sales-analysis/
 │
@@ -114,7 +114,7 @@ pizza-sales-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
@@ -138,14 +138,14 @@ pizza-sales-analysis/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mitakshara Aggarwal**
 
-- 📧 mitaksharaaggarwal@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mitaksharaaggarwal-74250a364/)
-- 🐙 [GitHub](https://github.com/mitaksharaaggarwal)
-- 📞 +91-9968022084
+-  mitaksharaaggarwal@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/mitaksharaaggarwal-74250a364/)
+-  [GitHub](https://github.com/mitaksharaaggarwal)
+-  +91-9968022084
 
 ---
 
