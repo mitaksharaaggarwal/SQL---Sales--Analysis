@@ -136,16 +136,6 @@ pizza-sales-analysis/
    SOURCE queries/advanced_analysis.sql;
 ```
 
----
-
-## Author
-
-**Mitakshara Aggarwal**
-
--  mitaksharaaggarwal@gmail.com
--  [LinkedIn](https://www.linkedin.com/in/mitaksharaaggarwal-74250a364/)
--  [GitHub](https://github.com/mitaksharaaggarwal)
--  +91-9968022084
 
 ---
 
